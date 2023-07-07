@@ -1,3 +1,24 @@
+## keypoints from slides
+1. 2维电子气：2DEG GaAs --- AlxGa(1-x)As Si0.7Ge0.3 --- 28si
+2. Donor spin qubit: 31P in Si, Bohr radius ~ 2.5nm
+3. Occupation diagram: 
+    + level splitting: inter-dot capacitance, 
+    + tilted diagram: crosstalk
+4. Initialization: low temperature, high $B_0$
+5. Drive method:
+    + ESR: pass current through wire
+    + EDSR: voltage on a gate, use spin-orbit interaction easier local addressing, all-electrical control possible
+6. Single-shot spin readout: 
+    + Main limitations: detection bandwidth and spin relaxation
+
+7. Hyperfine interaction with nuclear spins
+    + Overhauser field $B_N \approx 5mT$ 
+    
+
+
+
+
+
 1. Spin qubits in GaAs benefit from remarkably long energy re-
 laxation times T1, the time it takes a qubit to change from a
 high-energy state to the ground state. For single-spin qubits, T1
